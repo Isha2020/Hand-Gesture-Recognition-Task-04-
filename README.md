@@ -18,6 +18,7 @@ This project aims to build a deep learning model to **recognize hand gestures** 
 - `gesture_model.pkl` → Trained deep learning model file (saved using pickle/joblib).
 - `label_map.pkl` → Dictionary mapping labels to gesture names (used during prediction).
 
+
 ---
 
 ## 📊 Dataset
